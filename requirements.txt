@@ -1,0 +1,5 @@
+#### Libs without version specification ###
+pandas
+numpy
+matplotlib
+jupyter
